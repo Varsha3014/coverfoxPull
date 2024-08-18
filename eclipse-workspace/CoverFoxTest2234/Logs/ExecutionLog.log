@@ -1,0 +1,55 @@
+2024-08-12 12:31:27,161 - CoverFoxInsurence -INFO - opening Browser
+2024-08-12 12:31:35,957 - CoverFoxInsurence -INFO - Click on MaleButton
+2024-08-12 12:31:38,015 - CoverFoxInsurence -INFO - Click on NextButton
+2024-08-12 12:31:39,149 - CoverFoxInsurence -WARN - Age Should be Between 18-90
+2024-08-12 12:31:39,150 - CoverFoxInsurence -INFO - Selecting Age
+2024-08-12 12:31:39,194 - CoverFoxInsurence -INFO - Click On NextButton
+2024-08-12 12:31:40,307 - CoverFoxInsurence -WARN - Please Enter Valid PinCode
+2024-08-12 12:31:40,307 - CoverFoxInsurence -INFO - Entering Pin code
+2024-08-12 12:31:40,390 - CoverFoxInsurence -WARN - Please Enter Valid MobileNumber
+2024-08-12 12:31:40,391 - CoverFoxInsurence -INFO - Entering MobileNumber
+2024-08-12 12:31:40,457 - CoverFoxInsurence -INFO - Click On ContinueButton
+2024-08-12 12:31:45,517 - CoverFoxInsurence -INFO - Validating presence of SortPlanDropdown
+2024-08-12 12:31:49,573 - CoverFoxInsurence -INFO - Validating Banners
+2024-08-12 12:31:49,737 - CoverFoxInsurence -INFO - Closing Browser
+2024-08-12 12:35:33,175 - CoverFoxInsurence -INFO - opening Browser
+2024-08-12 12:35:42,607 - CoverFoxInsurence -INFO - Click on MaleButton
+2024-08-12 12:35:44,719 - CoverFoxInsurence -INFO - Click on NextButton
+2024-08-12 12:35:45,887 - CoverFoxInsurence -WARN - Age Should be Between 18-90
+2024-08-12 12:35:45,887 - CoverFoxInsurence -INFO - Selecting Age
+2024-08-12 12:35:45,937 - CoverFoxInsurence -INFO - Click On NextButton
+2024-08-12 12:35:47,033 - CoverFoxInsurence -WARN - Please Enter Valid PinCode
+2024-08-12 12:35:47,033 - CoverFoxInsurence -INFO - Entering Pin code
+2024-08-12 12:35:47,104 - CoverFoxInsurence -WARN - Please Enter Valid MobileNumber
+2024-08-12 12:35:47,105 - CoverFoxInsurence -INFO - Entering MobileNumber
+2024-08-12 12:35:47,179 - CoverFoxInsurence -INFO - Click On ContinueButton
+2024-08-12 12:35:52,243 - CoverFoxInsurence -INFO - Validating presence of SortPlanDropdown
+2024-08-12 12:35:56,309 - CoverFoxInsurence -INFO - Validating Banners
+2024-08-12 12:35:56,490 - CoverFoxInsurence -INFO - Closing Browser
+2024-08-12 12:45:18,532 - CoverFoxInsurence -INFO - opening Browser
+2024-08-12 12:45:27,063 - CoverFoxInsurence -INFO - Click on MaleButton
+2024-08-12 12:45:29,120 - CoverFoxInsurence -INFO - Click on NextButton
+2024-08-12 12:45:30,252 - CoverFoxInsurence -WARN - Age Should be Between 18-90
+2024-08-12 12:45:30,252 - CoverFoxInsurence -INFO - Selecting Age
+2024-08-12 12:45:30,305 - CoverFoxInsurence -INFO - Click On NextButton
+2024-08-12 12:45:31,388 - CoverFoxInsurence -WARN - Please Enter Valid PinCode
+2024-08-12 12:45:31,388 - CoverFoxInsurence -INFO - Entering Pin code
+2024-08-12 12:45:31,478 - CoverFoxInsurence -WARN - Please Enter Valid MobileNumber
+2024-08-12 12:45:31,478 - CoverFoxInsurence -INFO - Entering MobileNumber
+2024-08-12 12:45:31,556 - CoverFoxInsurence -INFO - Click On ContinueButton
+2024-08-12 12:45:36,612 - CoverFoxInsurence -INFO - Validating presence of SortPlanDropdown
+2024-08-12 12:45:40,675 - CoverFoxInsurence -INFO - Validating Banners
+2024-08-12 12:45:40,785 - CoverFoxInsurence -INFO - Closing Browser
+2024-08-12 12:49:18,985 - CoverFoxInsurence -INFO - opening Browser
+2024-08-12 12:49:28,828 - CoverFoxInsurence -INFO - Click on MaleButton
+2024-08-12 12:49:30,898 - CoverFoxInsurence -INFO - Click on NextButton
+2024-08-12 12:49:32,047 - CoverFoxInsurence -WARN - Age Should be Between 18-90
+2024-08-12 12:49:32,047 - CoverFoxInsurence -INFO - Selecting Age
+2024-08-12 12:49:32,094 - CoverFoxInsurence -INFO - Click On NextButton
+2024-08-12 12:49:33,185 - CoverFoxInsurence -WARN - Please Enter Valid PinCode
+2024-08-12 12:49:33,185 - CoverFoxInsurence -INFO - Entering Pin code
+2024-08-12 12:49:33,251 - CoverFoxInsurence -WARN - Please Enter Valid MobileNumber
+2024-08-12 12:49:33,252 - CoverFoxInsurence -INFO - Entering MobileNumber
+2024-08-12 12:49:33,317 - CoverFoxInsurence -INFO - Click On ContinueButton
+2024-08-12 12:49:42,502 - CoverFoxInsurence -INFO - Validating Banners
+2024-08-12 12:49:42,603 - CoverFoxInsurence -INFO - Closing Browser
